@@ -30,9 +30,9 @@ Basta preecher o nome e e-mail do usuário e enviar o formulário.
 - CSS
 - JS
 
-# Autor 
+# Autores
 
-Michael Rodrigues
-
-https://www.linkedin.com/in/michael-rodrigues-a3368811a/
+- Michael Rodrigues https://www.linkedin.com/in/michael-rodrigues-a3368811a/
+- Ingrid Natsumi Braga https://www.linkedin.com/in/ingrid-natsumi-braga-67126a195/
+- Santiago Ciocci https://www.linkedin.com/in/santiago-ciocci/
 
