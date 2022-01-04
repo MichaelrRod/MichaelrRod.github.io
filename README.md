@@ -27,7 +27,7 @@ Basta preecher o nome e e-mail do usuário e enviar o formulário.
 ## Tecnologias Utilizadas
 - HTML
 - CSS
-- JS
+- Java Script
 
 # Autores
 
