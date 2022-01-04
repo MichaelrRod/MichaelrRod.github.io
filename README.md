@@ -25,7 +25,6 @@ Basta preecher o nome e e-mail do usuário e enviar o formulário.
 </h1>
 
 ## Tecnologias Utilizadas
-
 - HTML
 - CSS
 - JS
