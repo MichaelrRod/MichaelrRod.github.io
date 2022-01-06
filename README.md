@@ -24,6 +24,13 @@ Basta preecher o nome e e-mail do usuário e enviar o formulário.
   <img src="./imagem/web2.JPG" alt="Web 1" width="500px">
 </h1>
 
+## Layout Mobile
+<h1>
+  <img src="./imagem/mob1.jpeg" alt="Mob 1" width="500px">
+  <img src="./imagem/mob2.jpeg" alt="Mob 2" width="500px">
+  <img src="./imagem/mob3.jpeg" alt="Mob 3" width="500px">
+</h1>
+
 ## Tecnologias Utilizadas
 - HTML
 - CSS
