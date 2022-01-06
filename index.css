@@ -150,3 +150,48 @@ footer img{
 	color: white;
 	
 }
+
+
+/* CONFIG PARA MOBILE (RESPONSIVO TABLET E/OU HORIZONTAL) */
+@media screen and (max-width: 939px){
+
+.cabecalho-principal h1 {
+	margin-left: 7%;
+}
+
+nav{
+		width: auto;
+		right: 10%;
+	}
+
+nav a{
+	font-size: 18px;
+}
+
+.titulo-principal h1 {
+	font-size: 21px;
+	padding: 30px 0;
+}
+
+.titulo-principal p {
+	font-size: 20px;
+}
+
+.inicio{
+	margin: 50px 0;
+}
+
+.equipe h1 {
+	font-size: 21px;
+	padding: 30px 0;
+}
+
+.equipe p{
+	font-size: 20px;
+}
+
+.equipe img{
+	width: 30%;
+}
+
+}

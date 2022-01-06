@@ -186,4 +186,61 @@ footer img{
 	color: white;
 }
 
+/* CONFIG PARA MOBILE (RESPONSIVO TABLET E/OU HORIZONTAL) */
+@media screen and (max-width: 939px){
 
+.cabecalho-principal h1 {
+	margin-left: 7%;
+}
+
+nav{
+		width: auto;
+		right: 10%;
+	}
+
+nav a{
+	font-size: 18px;
+}
+
+.como-jogar{
+	position: relative;
+	width: 66%;
+	padding: 0;
+	width: 95%;
+	margin-left: 8px;
+}
+
+.jogo{
+	position: relative;
+	width: auto;
+	margin-left: 3px;
+	float: none;
+	width: 97%;
+}
+
+.como-jogar h1 {
+	font-size: 25px;
+	padding: 12px 0;
+	margin-bottom: 10px;
+}
+
+.como-jogar p {
+	font-size: 20px;
+	padding: 10px 20px;
+}
+
+.satisfacao{
+	margin-top: 50px;
+	width: 79%;
+	margin-left: 8px;
+}
+
+.satisfacao h1{
+	font-size: 25px;
+}
+
+.satisfacao p{
+	font-size: 18px;
+}
+
+}
