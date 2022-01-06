@@ -27,9 +27,9 @@ Basta preecher o nome e e-mail do usuário e enviar o formulário.
 
 ## Layout Mobile
 <h1>
-  <img src="./imagem/mob1.jpeg" alt="Mob 1" width="300px">
-  <img src="./imagem/mob2.jpeg" alt="Mob 2" width="300px">
-  <img src="./imagem/mob3.jpeg" alt="Mob 3" width="300px">
+  <img src="./imagem/mob1.jpeg" alt="Mob 1" width="200px">
+  <img src="./imagem/mob2.jpeg" alt="Mob 2" width="200px">
+  <img src="./imagem/mob3.jpeg" alt="Mob 3" width="200px">
 </h1>
 
 ## Tecnologias Utilizadas
